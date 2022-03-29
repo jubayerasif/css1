@@ -1,0 +1,18 @@
+body
+{
+    background: rgb(154,207,218);
+    background: linear-gradient(90deg, rgba(154,207,218,1) 0%, rgba(140,133,249,1) 100%);
+}
+
+/*this is a comment in css*/
+
+#h13{
+    color: white;
+    background-color: #58fc46 ;
+    text-align: center;
+}
+#p13{
+    color: white;
+    background-color: #2db4fd;
+    text-align: center;
+}
